@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: qycf
-subtitle:
-description:
-keywords:
-author: John Doe
+title: 秋月春风 
+subtitle: time flies     
+description:   
+keywords: 
+author: _qycf
 language: zh-CN
-timezone:
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
