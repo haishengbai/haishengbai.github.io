@@ -79,5 +79,5 @@ theme: maupassant
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/haishengbai/haishengbai.github.io.git
+  repo: git@github.com:haishengbai/haishengbai.github.io.git
   branch: master
