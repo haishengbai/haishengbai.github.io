@@ -64,15 +64,21 @@ menu:
   - page: home
     directory: .
     icon: fa-home
+  - page: tour
+    directory: tour/
+    icon: fa-paper-plane
+  - page: literature
+    directory: literature/
+    icon: fa-book
   - page: archive
     directory: archives/
     icon: fa-archive
   - page: about
     directory: about/
     icon: fa-user
-  - page: rss
-    directory: atom.xml
-    icon: fa-rss
+  # - page: rss
+  #   directory: atom.xml
+  #   icon: fa-rss
 
 widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts, rencent_comments and links.
   - search
@@ -80,7 +86,7 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - tag
   - recent_posts
   - recent_comments
-  - links
+  # - links
 
 # links:
 #   - title: site-name1
