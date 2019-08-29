@@ -14,6 +14,10 @@ category: hexo
 - 部署
 
   hexo deploy
+  
+- 启动
+
+  hexo server -p 4000
 
   
 
