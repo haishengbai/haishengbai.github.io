@@ -5,7 +5,11 @@ tags: instruction
 category: hexo
 ---
 
-### 写作
+### 主题
+
+​	本站使用 **[maupassant]( https://www.haomwei.com/technology/maupassant-hexo.html)**
+
+### **写作**
 
 - 新文章
 

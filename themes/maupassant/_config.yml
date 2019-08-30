@@ -67,9 +67,9 @@ menu:
   - page: tour
     directory: tour/
     icon: fa-paper-plane
-  - page: literature
-    directory: literature/
-    icon: fa-book
+  - page: wine
+    directory: wine/
+    icon: fa-beer
   - page: archive
     directory: archives/
     icon: fa-archive
