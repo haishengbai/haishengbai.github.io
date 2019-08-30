@@ -9,15 +9,17 @@ category: hexo
 
 - 新文章
 
-  hexo new [layout] <title>
+  hexo new [layout] \<title>
 
 - 部署
 
   hexo deploy
+  (hexo d)
   
 - 启动
 
   hexo server -p 4000
+  (hexo s)
 
   
 
