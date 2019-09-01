@@ -64,9 +64,9 @@ menu:
   - page: home
     directory: .
     icon: fa-home
-  - page: tour
-    directory: tour/
-    icon: fa-paper-plane
+  - page: book
+    directory: book/
+    icon: fa-book
   - page: wine
     directory: wine/
     icon: fa-beer
