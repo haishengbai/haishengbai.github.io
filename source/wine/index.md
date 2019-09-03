@@ -1,6 +1,6 @@
 ---
 title: wine
-layout: page
+layout: single-column
 date: 2019-09-3 20:00:53
 ---
 # 酒
