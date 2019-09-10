@@ -1,8 +1,8 @@
 ---
 title: nginx
 date: 2019-09-06 21:49:36
-tags: software
-category: server
+tags: server
+category: software
 ---
 
 <p align="center">
