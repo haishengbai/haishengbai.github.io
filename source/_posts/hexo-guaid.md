@@ -14,7 +14,7 @@ category: hexo
 - 新文章
 
   ```
-  `hexo new [layout] \<title>
+  hexo new [layout] \<title>
   ```
 
 - 部署
