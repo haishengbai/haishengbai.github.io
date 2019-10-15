@@ -8,15 +8,45 @@ layout: single-column
 
 
 
+## 索引
+
+- [书](#书)
+- [工具](#工具)
+
+
+
+
+
+
+
+
+
+### 书
+
+------
+
 
 
 [ECMAScript6 入门](https://es6.ruanyifeng.com/)
 <img src="https://res.cloudinary.com/haishengbai/image/upload/v1567778414/hexo/blog/es6-primer.jpg" style="margin-left:0px;zoom:28%;" />
 
-
 [鸟哥的linux私房菜（基础学习）](http://shouce.jb51.net/vbird-linux-basic-4/)
 <img src="https://res.cloudinary.com/haishengbai/image/upload/v1567786048/hexo/blog/ng-linux-1.jpg" style="margin-left:0px;zoom:20%;" />
 
-
 [鸟哥的linux私房菜（服务器架构）](http://shouce.jb51.net/vbird-linux-server-3/)
 <img src="https://res.cloudinary.com/haishengbai/image/upload/v1567786056/hexo/blog/ng-linux-2.jpg" style="margin-left:0px;zoom:20%;" />
+
+
+
+
+
+### 工具
+
+------
+
+
+
+[IntelliJ-IDEA-Tutorial(IntelliJ IDEA 简体中文专题教程)](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
+
+
+
