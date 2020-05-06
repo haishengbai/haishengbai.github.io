@@ -1,8 +1,8 @@
 ---
 title: hexo使用指南
 date: 2019-08-29 23:23:51
-tags: instruction
-category: hexo
+tags: hexo
+category: software
 ---
 
 ### 主题
